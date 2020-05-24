@@ -7,3 +7,11 @@ def Fun():
         Num-=1
 
 Fun()
+
+def Fun`():
+    Num=10
+    while(Num>0):
+        print(Num,end=' ')
+        Num-=1
+
+Fun1()
